@@ -22,3 +22,6 @@ some skills that you will need to practice and once you get them down you are 10
 	- Credential hunting
 	- looking for misconfigured permission on binaries
 	- Cracking hashes
+
+I've also made a [cheatsheet](https://github.com/0xHillside/Cheatsheets/blob/main/eJPT.md) for those who need it during the exam or those who want to scope the material before it!
+
